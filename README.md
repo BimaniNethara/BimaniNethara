@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bimani Nethara</h1>
 <h3 align="center">🎓 Information Technology Undergraduate | 🚀 Tech Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bimaninethara&label=Profile%20views&color=0e75b6&style=flat" alt="bimaninethara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bimaninethara&label=Profile%20views&color=0e75b6&style=flat" alt="bimaninethara" /> </p>
 
 - 🌱 I’m currently learning **Web Development ,VB.NET, Java ,C...**
 
