@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bimaninethara&label=Profile%20views&color=0e75b6&style=flat" alt="bimaninethara" /> </p>
 
 <hr><br>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">About me</h3>
 
 - 🌱 I’m currently undergraduate at University of Ruhuna
 
