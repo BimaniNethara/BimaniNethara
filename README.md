@@ -17,6 +17,10 @@
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+  <!--html5-->
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
+ <!--css3-->
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="30" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <!--android-->
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="30" height="30"> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
   <!--arduino-->
@@ -25,12 +29,8 @@
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <!--cprogramming-->
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <!--css3-->
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="30" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<!--figma-->
+ <!--figma-->
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<!--html5-->
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <!--java-->
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <!--javascript-->
