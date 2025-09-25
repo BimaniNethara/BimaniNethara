@@ -6,6 +6,8 @@
 - 🌱 I’m currently undergraduate at University of Ruhuna
 
 - 📫 How to reach me **bimaniweeragala@gmail.com**
+  
+- 🌍 Languages I Know English , Sinhala , Japanese
 ---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
