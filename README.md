@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bimaninethara&label=Profile%20views&color=0e75b6&style=flat" alt="bimaninethara" /> </p>
 
-<hr><br>
+<hr>
 <h3 align="center">About me</h3>
 
 - 🌱 I’m currently undergraduate at University of Ruhuna
@@ -12,9 +12,7 @@
   
 - 🌍 Languages I Know English , Sinhala , Japanese
 ---
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/bimani nethara weeragala" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="bimani nethara weeragala" height="30" width="30" /></a>
+
 </p>
 
 <hr>
@@ -45,5 +43,9 @@
 <!--php-->
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="30" height="30"/> </a> </p>
 <br><hr>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/bimani nethara weeragala" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="bimani nethara weeragala" height="30" width="30" /></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimaninethara&show_icons=true&locale=en&layout=compact" alt="bimaninethara" /></p>
 
