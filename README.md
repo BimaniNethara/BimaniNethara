@@ -6,7 +6,7 @@
 <hr>
 <h3 align="center">About me</h3>
 
-- 🌱 I’m currently undergraduate at University of Ruhuna
+- 🌱 I’m currently third year undergraduate at University of Ruhuna
 
 - 📫 How to reach me **bimaniweeragala@gmail.com**
   
