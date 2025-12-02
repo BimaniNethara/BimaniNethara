@@ -15,7 +15,7 @@
 
 </p>
 
-<hr>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <!--html5-->
