@@ -42,7 +42,71 @@
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <!--php-->
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="30" height="30"/> </a> </p>
-<br><hr>
+<br>
+<h3 align="center">More Tools & Technologies:</h3>
+<p align="center">
+
+<!-- Firebase -->
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Light.svg" alt="firebase" width="30" height="30"/>
+</a>
+
+<!-- NodeJS -->
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="30" height="30"/>
+</a>
+
+<!-- Arduino -->
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="30" height="30"/>
+</a>
+
+<!-- ESP32 -->
+<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="esp32" width="30" height="30"/>
+</a>
+
+<!-- Canva -->
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="30" height="30"/>
+</a>
+
+<!-- WordPress -->
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Wordpress.svg" alt="wordpress" width="30" height="30"/>
+</a>
+
+<!-- CapCut -->
+<a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/capcut.svg" alt="capcut" width="30" height="30"/>
+</a>
+
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="vscode" width="30" height="30"/>
+</a>
+
+<!-- CodeBlocks -->
+<a href="http://www.codeblocks.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/codeblocks.svg" alt="codeblocks" width="30" height="30"/>
+</a>
+
+<!-- C++ -->
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="30" height="30"/>
+</a>
+
+<!-- KNIME -->
+<a href="https://www.knime.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/knime.svg" alt="knime" width="30" height="30"/>
+</a>
+
+<!-- Orange Data Mining -->
+<a href="https://orangedatamining.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/orange-3.svg" alt="orange" width="30" height="30"/>
+</a>
+
+</p><hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
