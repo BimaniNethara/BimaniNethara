@@ -47,6 +47,8 @@
 <p align="center">
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -118,24 +120,9 @@
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="30" height="30"/>
   </a>
 
-  <!-- ESP32 -->
-  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Espressif_ESP-logo_black.svg" alt="esp32" width="30" height="30"/>
-  </a>
-
-  <!-- Canva -->
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="30" height="30"/>
-  </a>
-
-  <!-- WordPress -->
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/WordPress.svg" alt="wordpress" width="30" height="30"/>
-  </a>
-
-  <!-- CapCut -->
-  <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/CapCut_Logo.svg" alt="capcut" width="30" height="30"/>
+  <!-- C++ -->
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="cpp" width="30" height="30"/>
   </a>
 
   <!-- VS Code -->
@@ -143,24 +130,39 @@
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="vscode" width="30" height="30"/>
   </a>
 
-  <!-- Code::Blocks -->
-  <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Code_Blocks.png" alt="codeblocks" width="30" height="30"/>
+  <!-- WordPress -->
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="30" height="30"/>
   </a>
 
-  <!-- C++ -->
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="cpp" width="30" height="30"/>
+  <!-- ESP32 -->
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=arduino" alt="esp32" width="30" height="30"/>
+  </a>
+
+  <!-- Canva -->
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="canva" height="30"/>
+  </a>
+
+  <!-- CapCut -->
+  <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white" alt="capcut" height="30"/>
+  </a>
+
+  <!-- Code::Blocks -->
+  <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Code::Blocks-000000?style=flat&logoColor=white" alt="codeblocks" height="30"/>
   </a>
 
   <!-- KNIME -->
   <a href="https://www.knime.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/KNIME_Logo.svg" alt="knime" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/KNIME-FFD700?style=flat&logo=knime&logoColor=black" alt="knime" height="30"/>
   </a>
 
   <!-- Orange -->
   <a href="https://orangedatamining.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Orange-logo-w.png" alt="orange" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/Orange-FF6600?style=flat&logoColor=white" alt="orange" height="30"/>
   </a>
 
 </p>
