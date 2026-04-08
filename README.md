@@ -142,27 +142,32 @@
 
   <!-- Canva -->
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="canva" height="30"/>
+    <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="canva" width="30" height="30"/>
   </a>
 
   <!-- CapCut -->
   <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white" alt="capcut" height="30"/>
+    <img src="https://cdn.simpleicons.org/capcut/000000" alt="capcut" width="30" height="30"/>
   </a>
 
   <!-- Code::Blocks -->
   <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Code::Blocks-000000?style=flat&logoColor=white" alt="codeblocks" height="30"/>
+    <img src="https://cdn.simpleicons.org/codeblocks/000000" alt="codeblocks" width="30" height="30"/>
   </a>
 
   <!-- KNIME -->
   <a href="https://www.knime.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/KNIME-FFD700?style=flat&logo=knime&logoColor=black" alt="knime" height="30"/>
+    <img src="https://cdn.simpleicons.org/knime/FFD700" alt="knime" width="30" height="30"/>
   </a>
 
   <!-- Orange -->
   <a href="https://orangedatamining.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Orange-FF6600?style=flat&logoColor=white" alt="orange" height="30"/>
+    <img src="https://cdn.simpleicons.org/orange/FF6600" alt="orange" width="30" height="30"/>
+  </a>
+
+  <!-- ESP32 -->
+  <a href="https://www.espressif.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="esp32" width="30" height="30"/>
   </a>
 
 </p>
