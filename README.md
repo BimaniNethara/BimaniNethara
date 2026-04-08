@@ -109,10 +109,7 @@
     <img src="https://skillicons.dev/icons?i=arduino" alt="esp32" width="30" height="30"/>
   </a>
 
-  <!-- Canva -->
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="30" height="30"/>
-</a>
+
 
 <!-- Canva -->
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
