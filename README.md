@@ -114,9 +114,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="30" height="30"/>
 </a>
 
-<!-- CapCut -->
-<a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/capcut.svg" alt="capcut" width="30" height="30"/>
+<!-- Canva -->
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" alt="canva" width="30" height="30"/>
 </a>
 
   <!-- Code::Blocks -->
