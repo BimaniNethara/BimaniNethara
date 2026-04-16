@@ -9,7 +9,7 @@
 
 <h3 align="center">About me</h3>
 
-- 🌱 I'm currently a third year undergraduate at University of Ruhuna
+- 🌱 I'm currently a final year undergraduate at University of Ruhuna
 - 📫 How to reach me: **bimaniweeragala@gmail.com**
 - 🌍 Languages I Know: English, Sinhala, Japanese
 
