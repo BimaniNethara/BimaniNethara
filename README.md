@@ -7,17 +7,18 @@
 
 <hr>
 
-<h3 align="center">About me</h3>
+<h3 align="center">👩‍💻 About Me</h3>
 
-- 🌱 I'm currently a final year undergraduate at University of Ruhuna
-- 📫 How to reach me: **bimaniweeragala@gmail.com**
-- 🌍 Languages I Know: English, Sinhala, Japanese
-
+- 🎓 I'm a **final Year Information Technology Undergraduate** at the University of Ruhuna  
+- 💻 I enjoy exploring **Web Development, Mobile App Development, and IoT projects**  
+- 🌱 Currently learning **Android Development, Data Mining, and Modern Web Technologies**  
+- 🧠 Interested in **building practical tech solutions that solve real-world problems**  
+- 🚀 Always curious about **new technologies and innovative ideas in IT**  
+- 🌍 Languages: **English | Sinhala | Japanese**  
+- 📫 Reach me at: **bimaniweeragala@gmail.com**
 <hr>
 
-<h3 align="center">Languages and Tools:</h3>
 
-<hr>
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 
